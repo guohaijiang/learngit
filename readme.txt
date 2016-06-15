@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple.
 add merge
 add dajiahao
 add /usr/bin/env
+add nihao
