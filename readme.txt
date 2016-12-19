@@ -7,3 +7,7 @@ add merge
 add dajiahao
 add /usr/bin/env
 add nihao
+<<<<<<< HEAD
+=======
+add /usr/bin/env
+>>>>>>> dev
